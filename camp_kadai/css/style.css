@@ -1,0 +1,30 @@
+.box1 {
+    width: 945px;
+    height: 370px;
+    /* 長いバージョン */
+    background-image: url("../img/02.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    /* 短いバージョン */
+    background: url("../img/02.jpg") no-repeat center center;
+    background-size: cover;
+    margin: 0 auto 50px;
+  }
+
+
+  .box1 a {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 165px;
+}
+
+  .box1 b{
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 165px;
+}
